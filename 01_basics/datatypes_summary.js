@@ -7,9 +7,8 @@
 
 const Id = Symbol('123')
 const anotherId = Symbol('123')
-/* console.log(Id==anotherId);
-console.log(typeof anotherId)  */
-
+//  console.log(Id==anotherId);
+// console.log(typeof anotherId)  
 // Stack (Primitive)  and Heap(non-Primitive)
 let myName = "Kashish"
 let anotherName = myName

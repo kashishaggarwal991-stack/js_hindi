@@ -12,11 +12,11 @@ const user = {
     isLoggedIn :"true"
 } 
 
-/* console.log(user.email);
+ console.log(user.email);
 console.log(user["email"]);
 
 console.log(user["full name"]);
-console.log(user[mySym]);   */
+console.log(user[mySym]);   
 user.email = "hitesh@microsoft.com"
 console.log(user.email);
 // Object.freeze(user) we can't modify values

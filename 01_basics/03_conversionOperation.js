@@ -1,7 +1,7 @@
 let name = "Kashish"
 let object = Number(name)
-// console.log(typeof object)
-// console.log(object)
+console.log(typeof object)
+console.log(object)
 
 // 33 -> 33
 // "33abc"  -> NaN
@@ -38,8 +38,8 @@ console.log(str3);
 // console.log(1+"2");  12
 // console.log("1"+2+3); 123
 // console.log(3+2+"1");  51
-// console.log(+true);
-// console.log(+"")
+console.log(+true);
+console.log(+"")
 
 let gameCounter = 100
 gameCounter++

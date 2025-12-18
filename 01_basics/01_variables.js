@@ -1,7 +1,7 @@
 const accountID = 248
 let accountEmail="kishii@gmail.com"
 var accountPassword = "kri"
-accountCity = "Allahabad"
+let accountCity = "Allahabad"
 
 accountPassword  = "hello"
 // accountID = 2

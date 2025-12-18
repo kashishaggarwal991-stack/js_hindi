@@ -9,9 +9,9 @@ const user = {
    }
 }
 
-// user.welcomeMessage()
-// user.username = "Sam"
-// user.welcomeMessage()
+user.welcomeMessage()
+user.username = "Sam"
+user.welcomeMessage()
 
 // console.log(this); empty string aaygaa
 

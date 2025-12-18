@@ -6,7 +6,7 @@ const one = 123.868
 // console.log(one.toPrecision(3));
 
 const two = 10000000
-// console.log(two.toLocaleString());
+console.log(two.toLocaleString());
 
 //+++++++++++  MATHS  //////////////////
 

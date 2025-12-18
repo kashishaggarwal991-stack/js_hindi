@@ -34,14 +34,14 @@ function sayMyName(){
 //  console.log(loginUserMessage("Ram"));
 //  console.log(loginUserMessage());
  
-function calculateCartPrice(...num1){   // ... rest operator/spread operator
-  return num1
-}
+// function calculateCartPrice(...num1){   // ... rest operator/spread operator
+//   return num1
+// }
 function calculateCartPrice(val1,...num1){   // ... rest operator/spread operator
   return num1
 }
 
-// console.log(calculateCartPrice(200,400,800));
+console.log(calculateCartPrice(200,400,800));
 
 const user = {
   name : "geeta",
